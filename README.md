@@ -9,6 +9,7 @@ This repository contains the SQL schema and queries for a simple employee databa
 
 This project provides an API for managing inventory in warehouses. It allows warehouse managers to perform CRUD operations on products, suppliers, warehouses, and stock levels.
 
+# Inventory Management 
 ## Features
 
 - **Products Management**: Create, read, update, and delete products.
